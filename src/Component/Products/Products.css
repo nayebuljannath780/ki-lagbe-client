@@ -1,0 +1,16 @@
+.products-container{
+    padding: 10px;
+    margin: 20px;
+    width: 400px;
+    text-align: center;
+
+}
+.products-container h5{
+    display:inline;
+    align-items: center;
+    justify-content: center;
+}
+.products-container h5, button{
+    margin:25px;
+    padding: 10px;
+}

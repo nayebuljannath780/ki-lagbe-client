@@ -1,0 +1,20 @@
+.header-container ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.header-container img{
+    width: 300px;
+    padding: 20px;
+    margin-right: 200px;
+}
+.header-container ul li{
+    list-style: none;
+    padding: 10px;
+   
+}
+.header-container ul li a{
+    text-decoration: none;
+    margin: 10px;
+    color:black;
+}

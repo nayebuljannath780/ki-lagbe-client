@@ -1,0 +1,12 @@
+.delete-container{
+    text-align: center;
+}
+.delete-container div{
+        border:1px solid grey;
+        padding: 10px;
+}
+.delete-container  button{
+    border:1px solid grey;
+    width:200px;
+    border-radius: 10px;
+}
