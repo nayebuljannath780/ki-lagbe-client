@@ -1,3 +1,3 @@
 ki_lagbe is a E-Commerce Website
  Its Build with React Node.js
- Live Site: https://ki-lagbe-e8450.web.app/
+ Live Site:  https://dazzling-mayer-ca4577.netlify.app/
